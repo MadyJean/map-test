@@ -1,0 +1,21 @@
+html{
+    background-image: url(images/);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+nav{
+  display:flex;
+  justify-content: center;
+  font-size: xx-large;
+  color:blueviolet;
+  list-style-type: none;
+}
+.header{
+    list-style-type: none;
+    font family: ;
+    color:blue;
+    font-size:xx-large;
+    display: flex;
+    justify-content: center;
+}

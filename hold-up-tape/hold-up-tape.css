@@ -1,11 +1,15 @@
 html{
-    background-color: black;
+    background-image: url(images/);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
 }
 nav{
   display:flex;
   justify-content: center;
   font-size: xx-large;
-  color: blanchedalmond;
+  color:blueviolet;
+  list-style-type: none;
 }
 .watch{
     list-style-type: none;
@@ -14,11 +18,4 @@ nav{
     font-size:xx-large;
     display: flex;
     justify-content: center;
-}
-.hold-up{
-    display: flex;
-    justify-content: center;
-    margin: auto;
-    height: 600px;
- 
 }
