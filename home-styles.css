@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+.header{
+list-style-type: none;
+font family: ;
+color:blue;
+font-size:xx-large;
+display: flex;
+justify-content: center;
+}
+.tape{
+  display:flex;
+  justify-content: center;
+  font-size: xx-large;
+  color: blanchedalmond;
+}
+.no-face{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-size: larger;
+    color: blueviolet;
+    height: 600px;
+    list-style-type: none;
+}
