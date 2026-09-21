@@ -1,5 +1,5 @@
 html{
-    background-image: url(images/no-face_real.png);
+    background-image: url(images/main-page.png);
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
@@ -27,4 +27,19 @@ nav{
     color: blueviolet;
     height: 600px;
     list-style-type: none;
+}
+.deer{
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    padding-top:37.35px;
+    padding-left:20.66px;
+    width: 8.4%;
+    opacity: 0%;
+}
+.deer:hover{
+    opacity: 100%;
+}
+a:visted{
+    color: blue;
 }
